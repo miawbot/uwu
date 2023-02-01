@@ -1,5 +1,5 @@
 #!/bin/bash
-
+clear
  
 
 if [ -z "$1" ]; then
